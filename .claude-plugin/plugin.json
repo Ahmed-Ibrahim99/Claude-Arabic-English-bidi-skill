@@ -1,0 +1,9 @@
+{
+  "name": "arabic-english-bidi",
+  "version": "1.0.0",
+  "description": "Fixes bidirectional (RTL/LTR) text ordering when Claude writes mixed Arabic and English content, so numbers, Latin words, and punctuation land in the correct visual position.",
+  "author": {
+    "name": "Ahmed"
+  },
+  "keywords": ["arabic", "rtl", "bidi", "bidirectional", "i18n", "direction"]
+}
